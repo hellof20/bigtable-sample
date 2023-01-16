@@ -11,7 +11,6 @@ table = instance.table(table_id)
 
 row_key = "phone#4c410523#20190573"
 
-
 for i in range(1,2000):
     time.sleep(0.5)
     print(str(i))
