@@ -1,4 +1,4 @@
-# bigtable-sample
+# Bigtable-sample
 
 ## Install
 ```
